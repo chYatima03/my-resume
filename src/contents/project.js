@@ -1,5 +1,5 @@
 import { faGithub, faMedium, faYoutube } from "@fortawesome/free-brands-svg-icons";
-import picExp from '../assets/exp_site.png'
+// import picExp from '../assets/exp_site.png'
 // import picLittleLemon from '../assets/littlelemon.png'
 import picWarehouse from '../assets/powerbi_warehouse.png'
 import picKiosk from '../assets/95699_0.jpg';
