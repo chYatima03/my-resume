@@ -1,5 +1,5 @@
 import { faGithub, faMedium, faYoutube } from "@fortawesome/free-brands-svg-icons";
-// import picExp from '../assets/exp_site.png'
+import picExp from '../assets/exp_site.png'
 import picOee from '../assets/oee.jpg'
 
 export const data = [
